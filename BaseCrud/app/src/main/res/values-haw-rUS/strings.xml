@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaseCrud</string>
+    <string name="title">Crud Person</string>
+    <string name="Crear">Create</string>
+    <string name="Modificar">Update</string>
+    <string name="Buscar">Search</string>
+    <string name="Eliminar">Delite</string>
+    <string name="Código">Id</string>
+    <string name="Cedula">CI</string>
+    <string name="Nombre">Name</string>
+    <string name="Apellido">Last Name</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Listar">Listar</string>
+    <string name="listPersonas">Listar Person</string>
+</resources>

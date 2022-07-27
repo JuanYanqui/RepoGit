@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BaseCrud</string>
+    <string name="title">Crud de Personas</string>
+    <string name="Crear">Crear</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Código">Id Persona</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Listar">Listar</string>
+    <string name="listPersonas">Listar personas</string>
+</resources>
